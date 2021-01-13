@@ -8,7 +8,7 @@ This project uses linear regression and machine learning to calculate the spread
 Six numbers are taken from every matchup and put into a matrix of size (len(games),6) A result matrix keeps track of the scores of those matchups. The six stats are:
 -Home Offense
 -Away Offense
--Penality Differential
+-Penalty Differential
 -Turnover Differential
 -Scoring Percentage Differential
 -Homefield (constant)
